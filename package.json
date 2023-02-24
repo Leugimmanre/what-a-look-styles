@@ -1,0 +1,24 @@
+{
+  "name": "what-a-look",
+  "version": "1.0.0",
+  "description": "App de gestión de clientes de peluquerías y centros de estética",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Leugimmanre/what-a-look-styles.git"
+  },
+  "author": "Miguel Angel Martínez Rivera",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Leugimmanre/what-a-look-styles/issues"
+  },
+  "homepage": "https://github.com/Leugimmanre/what-a-look-styles#readme",
+  "devDependencies": {
+    "gulp": "^4.0.2",
+    "gulp-sass": "^5.1.0",
+    "sass": "^1.58.3"
+  }
+}
